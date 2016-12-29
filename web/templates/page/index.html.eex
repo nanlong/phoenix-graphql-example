@@ -1,0 +1,2 @@
+
+<%= link "GraphQL 客户端", to: "/graphiql" %>
